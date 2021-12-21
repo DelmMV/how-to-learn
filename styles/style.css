@@ -292,7 +292,8 @@ font-weight: bold;
 
 }
 .footer__column_content_social{
-
+  display: flex;
+  flex-direction: column;
 }
 .logo_footer{
   width: 183px;
