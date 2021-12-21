@@ -100,7 +100,7 @@
   margin: 0;
   padding: 0;
   width: 80%;
-  min-width: 784px
+  min-width: 784px;
 
 }
 .two-columns__paragraph{
@@ -260,7 +260,7 @@ font-weight: bold;
   background-repeat: no-repeat;
   background-image: url(../images/kaufman-triangle.svg);
   background-size: 877px 877px;
-  overflow: hidden
+  overflow: hidden;
 }
 .footer{
   display: flex;
